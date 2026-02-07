@@ -1,0 +1,1 @@
+PLEASE open this as a administrator, the blezzmanager.bat, or some things may not work.
