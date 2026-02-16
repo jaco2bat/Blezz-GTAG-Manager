@@ -15,7 +15,7 @@ IF NEEDED, PLEASE RUN .BAT AS THE FOLLOWING ADMIN SO MODS WONT CRASH, IF IT DOES
 
 I am not responsible for exploiting, modifying and YOU not following the Another Axiom guidelines.
 
-Side note: I am not the Another Axiom company, and i am the CREATOR of this program. 
+Side note: There is a powershell version, here is the link: https://gofile.io/d/1nSK77
 
 (made using batch file)
 
