@@ -18,3 +18,5 @@ I am not responsible for exploiting, modifying and YOU not following the Another
 Side note: I am not the Another Axiom company, and i am the CREATOR of this program. 
 
 (made using batch file)
+
+This product is not affiliated with Another Axiom Inc. or its videogames Gorilla Tag and Orion Drift and is not endorsed or otherwise sponsored by Another Axiom. Portions of the materials contained herein are property of Another Axiom. ©2021 Another Axiom Inc. 
