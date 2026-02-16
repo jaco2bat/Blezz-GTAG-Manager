@@ -8,6 +8,8 @@ Launch the game through Steam
 
 Change the game’s file path if needed
 
+Note for Another Axiom and Gorilla tag: THIS does not install anything in the game, this is just a mod manager, not a Mod DOWNLOADER, please note!
+
 The script automatically checks for the game folder and uses the default Steam path if it can’t find it. It’s made to make managing files and plugins easier without having to hunt through your computer. Just run the batch file and follow the menu!
 
 
