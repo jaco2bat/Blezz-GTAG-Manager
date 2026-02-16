@@ -2,7 +2,7 @@ This is a simple tool to help you manage your Gorilla Tag game on Windows. It gi
 
 Open the Gorilla Tag folder
 
-Access the plugins folder for YOU t oadd m
+Access the plugins folder for YOU to ADD mods.
 
 Launch the game through Steam
 
